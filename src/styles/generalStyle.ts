@@ -27,6 +27,12 @@ export const GeneralStyle = createGlobalStyle`
     font-weight: lighter;
     src: url('fonts/NextaText-Trial-Light.woff') format('woff');
   }
+
+  @font-face {
+    font-family: "Build Tiling";
+    font-weight: lighter;
+    src: url('fonts/built titling lt.ttf') format('truetype');
+  }
 `;
 
 export const COLORS = {

@@ -3,6 +3,7 @@ import styled from "styled-components";
 import { COLORS } from "@/styles/generalStyle";
 
 const Container = styled.div`
+  font-size: 16px;
   width: 100vw;
   height: 100vh;
   overflow-y: auto;
